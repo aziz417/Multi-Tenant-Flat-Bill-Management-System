@@ -60,5 +60,5 @@ This system implements column-based multi-tenancy where:
 
 1. **Clone the repository**
 ```bash
-git clone <https://github.com/aziz417/Multi-Tenant-Flat-Bill-Management-System.git>
+git clone https://github.com/aziz417/Multi-Tenant-Flat-Bill-Management-System.git
 cd flat-management-system
